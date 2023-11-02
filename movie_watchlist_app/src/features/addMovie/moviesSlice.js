@@ -3,7 +3,7 @@ import {createSlice} from "@reduxjs/toolkit";
 const moviesSlice = createSlice({
     name: "movies",
     initialState: {
-        watchMovies: [],
+        watchedMovies: [],
         watchListMovies: [],
     },
     reducers: {
@@ -14,7 +14,7 @@ const moviesSlice = createSlice({
             state.watchListMovies= state.watchListMovies.filter(
                 (movie) => movie.id !== action.payload.id
                 );
-                state.watchedMovies.push(action.payload);
+                state.watchedMovies.push(action.payload); 
         },
     },
 });
