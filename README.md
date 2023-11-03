@@ -12,8 +12,8 @@ Clone the project
 https://github.com/rahulr41180/rosh-assignment
 
 ### <u>Run Commands on Frontend Side</u>
-- Go Into Client Directory
-- cd client
+- Go Into movie_watchlist_app Directory
+- cd movie_watchlist_app
 - npm install
 - npm start
 
@@ -50,7 +50,7 @@ All the data got stored in and called from <b>Azure storage blob</b>.
 
 ### <u>Credits :</u>
 
-<b>Rahul Rathor</b>
+<b>Vaishali Rathore</b>
 
 > <a href="https://github.com/vaishali2k11" target="_blank">Github</a>
 
