@@ -47,7 +47,7 @@ It will open at "http://localhost:3000"
 
 ### <u>Hosting Platfrom</u>
 
--I have used Vercal platfrom for hosting the Application
+- I used Vercal platfrom for hosting the Application
 
 > <a href="https://movie-app-seven-mu.vercel.app/" target="_blank">https://movie-app-seven-mu.vercel.app/</a>
 
