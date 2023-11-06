@@ -1,30 +1,26 @@
-# File Uploading in Azure  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;
+# Moive_App  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;
 
 
-In this project I  tried to build Movie_App.
+In this project I tried to build Movie_App.
 
 <div style='page-break-after: always'></div>
 
 ### <u>Run Locally</u>
 
-Clone the project
+Clone the project from Github
 
-https://github.com/rahulr41180/rosh-assignment
+> <a href="https://github.com/vaishali2k11/Movie_Watchlist_App
+" target="_blank">https://github.com/vaishali2k11/Movie_Watchlist_App
+</a>
 
 ### <u>Run Commands on Frontend Side</u>
+
 - Go Into movie_watchlist_app Directory
 - cd movie_watchlist_app
 - npm install
 - npm start
 
 It will open at "http://localhost:3000"
-
-### <u>Run Commands on Server Slide</u>
-- Go Into Server Folder Directory
-- npm install
-- npm server
-
-<div style='page-break-after: always'></div>
 
 ### <u>Frontend Technologies we used</u>
 
@@ -39,12 +35,21 @@ It will open at "http://localhost:3000"
 
 - Git Hub
 
-All the data got stored in and called from <b>Azure storage blob</b>.
-
 <div style='page-break-after: always'></div>
 
 ### <u>Functionalities</u>
 
+- Add Movie
+- Add Movie into WatchList
+- Add Movie into Watched
+  
+<div style='page-break-after: always'></div>
+
+### <u>Hosting Platfrom</u>
+
+-I have used vercal platfrom for hosting the Application
+
+> <a href="https://movie-app-seven-mu.vercel.app/" target="_blank">https://movie-app-seven-mu.vercel.app/</a>
 
 <div style='page-break-after: always'></div>
 
